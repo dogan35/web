@@ -1,0 +1,489 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SoruCevapPortali
+</name>
+</assembly>
+<members>
+<member name="P:SoruCevapPortali.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:SoruCevapPortali.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:SoruCevapPortali.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:SoruCevapPortali.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:SoruCevapPortali.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="T:SoruCevapPortali.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:SoruCevapPortali.YonetimPaneli.txtsoru">
+	<summary>
+txtsoru control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.YonetimPaneli.txtaciklama">
+	<summary>
+txtaciklama control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.YonetimPaneli.txtisim">
+	<summary>
+txtisim control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.YonetimPaneli.lbSonuc">
+	<summary>
+lbSonuc control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.YonetimPaneli.rptSoru">
+	<summary>
+rptSoru control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.YonetimPaneli.txtdetay">
+	<summary>
+txtdetay control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.YonetimPaneli.rptCevap">
+	<summary>
+rptCevap control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.sorugosterr.lblsoru">
+	<summary>
+lblsoru control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.sorugosterr.lblaciklama">
+	<summary>
+lblaciklama control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.sorugosterr.lblisim">
+	<summary>
+lblisim control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.sorugosterr.lbltarih">
+	<summary>
+lbltarih control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.sorugosterr.lblcevap">
+	<summary>
+lblcevap control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.sorugosterr.lblgoruntulenme">
+	<summary>
+lblgoruntulenme control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.sorugosterr.txtad">
+	<summary>
+txtad control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.sorugosterr.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.sorugosterr.txtCevap">
+	<summary>
+txtCevap control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.sorugosterr.rptSoru">
+	<summary>
+rptSoru control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.sorugosterr.rptCevap">
+	<summary>
+rptCevap control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.sorugosterr.hplgeri">
+	<summary>
+hplgeri control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.İletişimaspx.txtAd">
+	<summary>
+txtAd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.İletişimaspx.txtTel">
+	<summary>
+txtTel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.İletişimaspx.txtYas">
+	<summary>
+txtYas control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.İletişimaspx.txtCinsiyet">
+	<summary>
+txtCinsiyet control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.İletişimaspx.txtMail">
+	<summary>
+txtMail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.İletişimaspx.txtMesaj">
+	<summary>
+txtMesaj control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.İletişimaspx.lbSonuc">
+	<summary>
+lbSonuc control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.İletişimaspx.btnGonder">
+	<summary>
+btnGonder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.Site1.Head1">
+	<summary>
+Head1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.Site1.head">
+	<summary>
+head control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.Site1.form2">
+	<summary>
+form2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.Site1.txtKadi">
+	<summary>
+txtKadi control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.Site1.txtSifre">
+	<summary>
+txtSifre control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.Site1.btnGiris">
+	<summary>
+btnGiris control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.Site1.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.Site1.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.Site1.btnMail">
+	<summary>
+btnMail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.Site1.Label3">
+	<summary>
+Label3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.Site1.ContentPlaceHolder1">
+	<summary>
+ContentPlaceHolder1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.yenisoruu.txtsoru">
+	<summary>
+txtsoru control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.yenisoruu.txtaciklama">
+	<summary>
+txtaciklama control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.yenisoruu.txtisim">
+	<summary>
+txtisim control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.yenisoruu.btnKaydet">
+	<summary>
+btnKaydet control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.yenisoruu.lbSonuc">
+	<summary>
+lbSonuc control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.forumanasayfaa.txtsoru">
+	<summary>
+txtsoru control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.forumanasayfaa.txtaciklama">
+	<summary>
+txtaciklama control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.forumanasayfaa.txtisim">
+	<summary>
+txtisim control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.forumanasayfaa.btnKaydet">
+	<summary>
+btnKaydet control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.forumanasayfaa.lbSonuc">
+	<summary>
+lbSonuc control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.forumanasayfaa.rptSoru">
+	<summary>
+rptSoru control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.forumanasayfaa.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.forumanasayfaa.txtara">
+	<summary>
+txtara control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.forumanasayfaa.btnara">
+	<summary>
+btnara control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.forumanasayfaa.lbUyari">
+	<summary>
+lbUyari control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.forumanasayfaa.btntemizle">
+	<summary>
+btntemizle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SoruCevapPortali.iletisimyonetim.rptMesaj">
+	<summary>
+rptMesaj control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:SoruCevapPortali.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:SoruCevapPortali.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:SoruCevapPortali.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

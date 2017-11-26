@@ -1,0 +1,86 @@
+C:\Users\hakan07\Desktop\SoruCevapPortali\SoruCevapPortali\bin\SoruCevapPortali.dll.config
+C:\Users\hakan07\Desktop\SoruCevapPortali\SoruCevapPortali\bin\SoruCevapPortali.dll
+C:\Users\hakan07\Desktop\SoruCevapPortali\SoruCevapPortali\bin\SoruCevapPortali.pdb
+C:\Users\hakan07\Desktop\SoruCevapPortali\SoruCevapPortali\bin\SoruCevapPortali.xml
+C:\Users\hakan07\Desktop\SoruCevapPortali\SoruCevapPortali\obj\Debug\SoruCevapPortali.Resources.resources
+C:\Users\hakan07\Desktop\SoruCevapPortali\SoruCevapPortali\obj\Debug\SoruCevapPortali.vbproj.GenerateResource.Cache
+C:\Users\hakan07\Desktop\SoruCevapPortali\SoruCevapPortali\obj\Debug\SoruCevapPortali.dll
+C:\Users\hakan07\Desktop\SoruCevapPortali\SoruCevapPortali\obj\Debug\SoruCevapPortali.xml
+C:\Users\hakan07\Desktop\SoruCevapPortali\SoruCevapPortali\obj\Debug\SoruCevapPortali.pdb
+C:\Users\hakan07\Desktop\SoruCevapPortali\SoruCevapPortali\obj\Debug\SoruCevapPortali.vbprojResolveAssemblyReference.cache
+D:\2016 ÜNİVERSİTE DERS NOTLARI VE PROGRAMLAR\A.KOÇER ÖDEVLER\YENİLER\SoruCevapPortali\SoruCevapPortali\obj\Debug\SoruCevapPortali.vbprojResolveAssemblyReference.cache
+D:\2016 ÜNİVERSİTE DERS NOTLARI VE PROGRAMLAR\A.KOÇER ÖDEVLER\YENİLER\SoruCevapPortali\SoruCevapPortali\obj\Debug\SoruCevapPortali.Resources.resources
+D:\2016 ÜNİVERSİTE DERS NOTLARI VE PROGRAMLAR\A.KOÇER ÖDEVLER\YENİLER\SoruCevapPortali\SoruCevapPortali\obj\Debug\SoruCevapPortali.vbproj.GenerateResource.Cache
+D:\2016 ÜNİVERSİTE DERS NOTLARI VE PROGRAMLAR\A.KOÇER ÖDEVLER\YENİLER\SoruCevapPortali\SoruCevapPortali\obj\Debug\SoruCevapPortali.dll
+D:\2016 ÜNİVERSİTE DERS NOTLARI VE PROGRAMLAR\A.KOÇER ÖDEVLER\YENİLER\SoruCevapPortali\SoruCevapPortali\obj\Debug\SoruCevapPortali.xml
+D:\2016 ÜNİVERSİTE DERS NOTLARI VE PROGRAMLAR\A.KOÇER ÖDEVLER\YENİLER\SoruCevapPortali\SoruCevapPortali\obj\Debug\SoruCevapPortali.pdb
+C:\Users\hakan07\Desktop\SoruCevapPortali\bin\SoruCevapPortali.dll.config
+C:\Users\hakan07\Desktop\SoruCevapPortali\bin\SoruCevapPortali.dll
+C:\Users\hakan07\Desktop\SoruCevapPortali\bin\SoruCevapPortali.pdb
+C:\Users\hakan07\Desktop\SoruCevapPortali\bin\SoruCevapPortali.xml
+C:\Users\hakan07\Desktop\SoruCevapPortali\obj\Debug\SoruCevapPortali.vbprojResolveAssemblyReference.cache
+C:\Users\hakan07\Desktop\SoruCevapPortali\obj\Debug\SoruCevapPortali.Resources.resources
+C:\Users\hakan07\Desktop\SoruCevapPortali\obj\Debug\SoruCevapPortali.vbproj.GenerateResource.Cache
+C:\Users\hakan07\Desktop\SoruCevapPortali\obj\Debug\SoruCevapPortali.dll
+C:\Users\hakan07\Desktop\SoruCevapPortali\obj\Debug\SoruCevapPortali.xml
+C:\Users\hakan07\Desktop\SoruCevapPortali\obj\Debug\SoruCevapPortali.pdb
+C:\Users\hakan07\Desktop\SoruCevapPortali2\bin\SoruCevapPortali.dll.config
+C:\Users\hakan07\Desktop\SoruCevapPortali2\bin\SoruCevapPortali.dll
+C:\Users\hakan07\Desktop\SoruCevapPortali2\bin\SoruCevapPortali.pdb
+C:\Users\hakan07\Desktop\SoruCevapPortali2\bin\SoruCevapPortali.xml
+C:\Users\hakan07\Desktop\SoruCevapPortali2\obj\Debug\SoruCevapPortali.vbprojResolveAssemblyReference.cache
+C:\Users\hakan07\Desktop\SoruCevapPortali2\obj\Debug\SoruCevapPortali.Resources.resources
+C:\Users\hakan07\Desktop\SoruCevapPortali2\obj\Debug\SoruCevapPortali.vbproj.GenerateResource.Cache
+C:\Users\hakan07\Desktop\SoruCevapPortali2\obj\Debug\SoruCevapPortali.dll
+C:\Users\hakan07\Desktop\SoruCevapPortali2\obj\Debug\SoruCevapPortali.xml
+C:\Users\hakan07\Desktop\SoruCevapPortali2\obj\Debug\SoruCevapPortali.pdb
+C:\Users\hakan07\Desktop\SoruCevapPortali3\bin\SoruCevapPortali.dll.config
+C:\Users\hakan07\Desktop\SoruCevapPortali3\bin\SoruCevapPortali.dll
+C:\Users\hakan07\Desktop\SoruCevapPortali3\bin\SoruCevapPortali.pdb
+C:\Users\hakan07\Desktop\SoruCevapPortali3\bin\SoruCevapPortali.xml
+C:\Users\hakan07\Desktop\SoruCevapPortali3\obj\Debug\SoruCevapPortali.vbprojResolveAssemblyReference.cache
+C:\Users\hakan07\Desktop\SoruCevapPortali3\obj\Debug\SoruCevapPortali.Resources.resources
+C:\Users\hakan07\Desktop\SoruCevapPortali3\obj\Debug\SoruCevapPortali.vbproj.GenerateResource.Cache
+C:\Users\hakan07\Desktop\SoruCevapPortali3\obj\Debug\SoruCevapPortali.dll
+C:\Users\hakan07\Desktop\SoruCevapPortali3\obj\Debug\SoruCevapPortali.xml
+C:\Users\hakan07\Desktop\SoruCevapPortali3\obj\Debug\SoruCevapPortali.pdb
+C:\Users\hakan07\Desktop\SoruCevapPortali4\bin\SoruCevapPortali.dll.config
+C:\Users\hakan07\Desktop\SoruCevapPortali4\bin\SoruCevapPortali.dll
+C:\Users\hakan07\Desktop\SoruCevapPortali4\bin\SoruCevapPortali.pdb
+C:\Users\hakan07\Desktop\SoruCevapPortali4\bin\SoruCevapPortali.xml
+C:\Users\hakan07\Desktop\SoruCevapPortali4\obj\Debug\SoruCevapPortali.vbprojResolveAssemblyReference.cache
+C:\Users\hakan07\Desktop\SoruCevapPortali4\obj\Debug\SoruCevapPortali.Resources.resources
+C:\Users\hakan07\Desktop\SoruCevapPortali4\obj\Debug\SoruCevapPortali.vbproj.GenerateResource.Cache
+C:\Users\hakan07\Desktop\SoruCevapPortali4\obj\Debug\SoruCevapPortali.dll
+C:\Users\hakan07\Desktop\SoruCevapPortali4\obj\Debug\SoruCevapPortali.xml
+C:\Users\hakan07\Desktop\SoruCevapPortali4\obj\Debug\SoruCevapPortali.pdb
+C:\Users\hakan07\Desktop\SoruCevapPortali5\obj\Debug\SoruCevapPortali.vbprojResolveAssemblyReference.cache
+C:\Users\hakan07\Desktop\SoruCevapPortali5\obj\Debug\SoruCevapPortali.Resources.resources
+C:\Users\hakan07\Desktop\SoruCevapPortali5\obj\Debug\SoruCevapPortali.vbproj.GenerateResource.Cache
+C:\Users\hakan07\Desktop\SoruCevapPortali5\obj\Debug\SoruCevapPortali.dll
+C:\Users\hakan07\Desktop\SoruCevapPortali5\obj\Debug\SoruCevapPortali.xml
+C:\Users\hakan07\Desktop\SoruCevapPortali5\obj\Debug\SoruCevapPortali.pdb
+C:\Users\hakan07\Desktop\SoruCevapPortali5\bin\SoruCevapPortali.dll.config
+C:\Users\hakan07\Desktop\SoruCevapPortali5\bin\SoruCevapPortali.dll
+C:\Users\hakan07\Desktop\SoruCevapPortali5\bin\SoruCevapPortali.pdb
+C:\Users\hakan07\Desktop\SoruCevapPortali5\bin\SoruCevapPortali.xml
+D:\2016 ÜNİVERSİTE DERS NOTLARI VE PROGRAMLAR\A.KOÇER ÖDEVLER\YENİ UYGULAMALAR STOK-SORU\SoruCevapPortali5\bin\SoruCevapPortali.dll.config
+D:\2016 ÜNİVERSİTE DERS NOTLARI VE PROGRAMLAR\A.KOÇER ÖDEVLER\YENİ UYGULAMALAR STOK-SORU\SoruCevapPortali5\bin\SoruCevapPortali.dll
+D:\2016 ÜNİVERSİTE DERS NOTLARI VE PROGRAMLAR\A.KOÇER ÖDEVLER\YENİ UYGULAMALAR STOK-SORU\SoruCevapPortali5\bin\SoruCevapPortali.pdb
+D:\2016 ÜNİVERSİTE DERS NOTLARI VE PROGRAMLAR\A.KOÇER ÖDEVLER\YENİ UYGULAMALAR STOK-SORU\SoruCevapPortali5\bin\SoruCevapPortali.xml
+D:\2016 ÜNİVERSİTE DERS NOTLARI VE PROGRAMLAR\A.KOÇER ÖDEVLER\YENİ UYGULAMALAR STOK-SORU\SoruCevapPortali5\obj\Debug\SoruCevapPortali.vbprojResolveAssemblyReference.cache
+D:\2016 ÜNİVERSİTE DERS NOTLARI VE PROGRAMLAR\A.KOÇER ÖDEVLER\YENİ UYGULAMALAR STOK-SORU\SoruCevapPortali5\obj\Debug\SoruCevapPortali.Resources.resources
+D:\2016 ÜNİVERSİTE DERS NOTLARI VE PROGRAMLAR\A.KOÇER ÖDEVLER\YENİ UYGULAMALAR STOK-SORU\SoruCevapPortali5\obj\Debug\SoruCevapPortali.vbproj.GenerateResource.Cache
+D:\2016 ÜNİVERSİTE DERS NOTLARI VE PROGRAMLAR\A.KOÇER ÖDEVLER\YENİ UYGULAMALAR STOK-SORU\SoruCevapPortali5\obj\Debug\SoruCevapPortali.dll
+D:\2016 ÜNİVERSİTE DERS NOTLARI VE PROGRAMLAR\A.KOÇER ÖDEVLER\YENİ UYGULAMALAR STOK-SORU\SoruCevapPortali5\obj\Debug\SoruCevapPortali.xml
+D:\2016 ÜNİVERSİTE DERS NOTLARI VE PROGRAMLAR\A.KOÇER ÖDEVLER\YENİ UYGULAMALAR STOK-SORU\SoruCevapPortali5\obj\Debug\SoruCevapPortali.pdb
+F:\2015-2016 FOTOLAR VE ESKİLER\2016 ÜNİVERSİTE DERS NOTLARI VE PROGRAMLAR\A.KOÇER ÖDEVLER\YENİ UYGULAMALAR STOK-SORU\SoruCevapPortali5\bin\SoruCevapPortali.dll.config
+F:\2015-2016 FOTOLAR VE ESKİLER\2016 ÜNİVERSİTE DERS NOTLARI VE PROGRAMLAR\A.KOÇER ÖDEVLER\YENİ UYGULAMALAR STOK-SORU\SoruCevapPortali5\bin\SoruCevapPortali.dll
+F:\2015-2016 FOTOLAR VE ESKİLER\2016 ÜNİVERSİTE DERS NOTLARI VE PROGRAMLAR\A.KOÇER ÖDEVLER\YENİ UYGULAMALAR STOK-SORU\SoruCevapPortali5\bin\SoruCevapPortali.pdb
+F:\2015-2016 FOTOLAR VE ESKİLER\2016 ÜNİVERSİTE DERS NOTLARI VE PROGRAMLAR\A.KOÇER ÖDEVLER\YENİ UYGULAMALAR STOK-SORU\SoruCevapPortali5\bin\SoruCevapPortali.xml
+F:\2015-2016 FOTOLAR VE ESKİLER\2016 ÜNİVERSİTE DERS NOTLARI VE PROGRAMLAR\A.KOÇER ÖDEVLER\YENİ UYGULAMALAR STOK-SORU\SoruCevapPortali5\obj\Debug\SoruCevapPortali.vbprojResolveAssemblyReference.cache
+F:\2015-2016 FOTOLAR VE ESKİLER\2016 ÜNİVERSİTE DERS NOTLARI VE PROGRAMLAR\A.KOÇER ÖDEVLER\YENİ UYGULAMALAR STOK-SORU\SoruCevapPortali5\obj\Debug\SoruCevapPortali.Resources.resources
+F:\2015-2016 FOTOLAR VE ESKİLER\2016 ÜNİVERSİTE DERS NOTLARI VE PROGRAMLAR\A.KOÇER ÖDEVLER\YENİ UYGULAMALAR STOK-SORU\SoruCevapPortali5\obj\Debug\SoruCevapPortali.vbproj.GenerateResource.Cache
+F:\2015-2016 FOTOLAR VE ESKİLER\2016 ÜNİVERSİTE DERS NOTLARI VE PROGRAMLAR\A.KOÇER ÖDEVLER\YENİ UYGULAMALAR STOK-SORU\SoruCevapPortali5\obj\Debug\SoruCevapPortali.dll
+F:\2015-2016 FOTOLAR VE ESKİLER\2016 ÜNİVERSİTE DERS NOTLARI VE PROGRAMLAR\A.KOÇER ÖDEVLER\YENİ UYGULAMALAR STOK-SORU\SoruCevapPortali5\obj\Debug\SoruCevapPortali.xml
+F:\2015-2016 FOTOLAR VE ESKİLER\2016 ÜNİVERSİTE DERS NOTLARI VE PROGRAMLAR\A.KOÇER ÖDEVLER\YENİ UYGULAMALAR STOK-SORU\SoruCevapPortali5\obj\Debug\SoruCevapPortali.pdb
